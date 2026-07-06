@@ -1,0 +1,8 @@
+.env
+.settings.json
+database.db
+vector_store_*/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
